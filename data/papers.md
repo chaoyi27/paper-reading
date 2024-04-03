@@ -3,7 +3,7 @@
 ## Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions
 
 - **Authors**: Saptarshi Dasgupta, Akshat Gupta, Shreshth Tuli, Rohan Paul
-- **Tags**: `Review`, `Imitation Learning`
+- **Tags**: `NeRF`, `Manipulation`
 
 ### Abstract
 
@@ -12,7 +12,6 @@ Manipulating unseen objects is challenging without a 3D representation, as objec
 [Paper Link](https://arxiv.org/abs/2404.01812)
 
 ![Teaser Image](imgs/2024-04-04_00-49.png)
-
 
 # 2024-04-03
 
