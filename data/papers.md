@@ -1,60 +1,22 @@
-# 2024-04-03
+# 2024-04-04
 
-## Example Paper Title
+## Title not found
 
-- **Authors**: Author 1, Author 2
-- **Institutions**: Institution 1, Institution 2
-- **Tags**: `nav`, `sim2real`
-
-![Teaser Image](http://example.com/teaser.jpg)
+- **Authors**: Authors not found
+- **Institutions**: NVIDIA Research, Peking University
+- **Tags**: `Reinforcement Learning`, `Simulation to Reality`
 
 ### Abstract
 
-This is the abstract.
+Abstract not found
 
-[Paper PDF](http://example.com)
+[Paper Link](http://example.com)
+
+[Website Link](Project website not found)
 
 ### Notes
 
 These are the notes.
 
 
-# 2024-04-02
 
-## Example Paper Title
-
-- **Authors**: Author 1, Author 2
-- **Institutions**: Institution 1, Institution 2
-- **Tags**: `nav`, `sim2real`
-
-![Teaser Image](http://example.com/teaser.jpg)
-
-### Abstract
-
-This is the abstract.
-
-[Paper PDF](http://example.com)
-
-### Notes
-
-These are the notes.
-
-# 2024-04-01
-
-## Example Paper Title
-
-- **Authors**: Author 1, Author 2
-- **Institutions**: Institution 1, Institution 2
-- **Tags**: `nav`, `sim2real`
-
-![Teaser Image](http://example.com/teaser.jpg)
-
-### Abstract
-
-This is the abstract.
-
-[Paper PDF](http://example.com)
-
-### Notes
-
-These are the notes.
