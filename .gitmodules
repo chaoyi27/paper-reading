@@ -1,0 +1,3 @@
+[submodule "Simulately"]
+	path = Simulately
+	url = git@github.com:geng-haoran/Simulately.git
