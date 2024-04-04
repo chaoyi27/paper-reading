@@ -39,9 +39,9 @@ Quadruped robots are progressively being integrated into human environments. Des
 
 [Paper Link](https://arxiv.org/abs/2403.20328)
 
-![Teaser Image](../imgs/2024-04-04_00-30.png)
+![Teaser Image](imgs/2024-04-04_00-30.png)
 
-![Pipeline Image](../imgs/2024-04-04_00-30_1.png)
+![Pipeline Image](imgs/2024-04-04_00-30_1.png)
 
 [Website Link](https://zhengmaohe.github.io/leg-manip)
 
